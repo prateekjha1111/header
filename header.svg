@@ -1,6 +1,153 @@
-<!-- 🚀 Animated Space & Tech Typing Banner 🛸 -->
-<div align="center">
-  <a href="https://github.com/prateekjha1111">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&multiline=true&repeat=true&width=840&height=75&lines=Exploring+the+Backend+Galaxy+with+Java+17+and+Spring+Boot;Building+Scalable+Microservices%2C+REST+APIs+and+Redis+Caching;Deploying+Cloud-Native+Systems+on+AWS+EC2%2C+RDS+and+Docker" alt="Cosmic Telemetry Typing SVG" />
-  </a>
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="100%" height="280">
+  <defs>
+    
+    <linearGradient id="spaceBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#02030a" />
+      <stop offset="50%" stop-color="#080c1f" />
+      <stop offset="100%" stop-color="#13092b" />
+    </linearGradient>
+
+    
+    <radialGradient id="nebulaPurple" cx="75%" cy="35%" r="45%">
+      <stop offset="0%" stop-color="#6d28d9" stop-opacity="0.28" />
+      <stop offset="100%" stop-color="#02030a" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="nebulaBlue" cx="25%" cy="70%" r="40%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#02030a" stop-opacity="0" />
+    </radialGradient>
+
+    
+    <radialGradient id="sunCorona" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fef08a" stop-opacity="0.95" />
+      <stop offset="35%" stop-color="#f97316" stop-opacity="0.45" />
+      <stop offset="70%" stop-color="#ea580c" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#02030a" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="sunCore" cx="40%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="55%" stop-color="#facc15" />
+      <stop offset="100%" stop-color="#ea580c" />
+    </radialGradient>
+
+    
+    <linearGradient id="saturnBody" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7" />
+      <stop offset="55%" stop-color="#4c1d95" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+    <linearGradient id="saturnRing" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.15" />
+      <stop offset="50%" stop-color="#c084fc" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.15" />
+    </linearGradient>
+
+    
+    <linearGradient id="exoplanet" x1="20%" y1="15%" x2="85%" y2="90%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="55%" stop-color="#0369a1" />
+      <stop offset="100%" stop-color="#082f49" />
+    </linearGradient>
+
+    
+    <linearGradient id="amberPlanet" x1="20%" y1="20%" x2="80%" y2="80%">
+      <stop offset="0%" stop-color="#fdba74" />
+      <stop offset="100%" stop-color="#9a3412" />
+    </linearGradient>
+
+    
+    <linearGradient id="ufoBeam" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  
+  <rect width="1200" height="280" rx="16" fill="url(#spaceBg)" stroke="#3b0764" stroke-width="2" />
+  <rect width="1200" height="280" rx="16" fill="url(#nebulaPurple)" />
+  <rect width="1200" height="280" rx="16" fill="url(#nebulaBlue)" />
+
+  
+  <g fill="#ffffff">
+    <circle cx="65" cy="210" r="1.4" opacity="0.8"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" repeatCount="indefinite" /></circle>
+    <circle cx="195" cy="45" r="1.8" opacity="0.9"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.6s" repeatCount="indefinite" /></circle>
+    <circle cx="265" cy="145" r="1.2" opacity="0.6" />
+    <circle cx="340" cy="38" r="2.1" fill="#bae6fd"><animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite" /></circle>
+    <circle cx="420" cy="235" r="1.5" opacity="0.7" />
+    <circle cx="495" cy="30" r="1.3" opacity="0.8" />
+    <circle cx="560" cy="245" r="1.8" fill="#fde047"><animate attributeName="opacity" values="0.2;0.95;0.2" dur="3.4s" repeatCount="indefinite" /></circle>
+    <circle cx="680" cy="28" r="1.5" opacity="0.75" />
+    <circle cx="755" cy="238" r="1.4" opacity="0.85" />
+    <circle cx="835" cy="36" r="2" fill="#e9d5ff"><animate attributeName="opacity" values="0.9;0.25;0.9" dur="2.9s" repeatCount="indefinite" /></circle>
+    <circle cx="945" cy="235" r="1.6" opacity="0.8" />
+    <circle cx="1145" cy="48" r="1.9" fill="#bae6fd"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.7s" repeatCount="indefinite" /></circle>
+    <circle cx="1150" cy="220" r="1.4" opacity="0.75" />
+    
+    <path d="M390 68 L392 74 L398 76 L392 78 L390 84 L388 78 L382 76 L388 74 Z" fill="#fef08a" opacity="0.85" />
+    <path d="M815 62 L817 68 L823 70 L817 72 L815 78 L813 72 L807 70 L813 68 Z" fill="#7dd3fc" opacity="0.85" />
+  </g>
+
+  
+  <circle cx="105" cy="68" r="88" fill="url(#sunCorona)" />
+  <circle cx="105" cy="68" r="30" fill="url(#sunCore)" />
+
+  
+  <circle cx="165" cy="205" r="28" fill="url(#exoplanet)" />
+  <circle cx="156" cy="197" r="5" fill="#0c4a6e" opacity="0.55" />
+  <circle cx="174" cy="212" r="7" fill="#0c4a6e" opacity="0.45" />
+  <circle cx="212" cy="182" r="6" fill="#cbd5e1" />
+
+  
+  <circle cx="905" cy="52" r="14" fill="url(#amberPlanet)" />
+
+  
+  <g transform="translate(1045, 125)">
+    
+    <path d="M -92 0 A 92 22 0 0 1 92 0" fill="none" stroke="url(#saturnRing)" stroke-width="8" transform="rotate(-18)" />
+    
+    <circle cx="0" cy="0" r="44" fill="url(#saturnBody)" />
+    
+    <path d="M -92 0 A 92 22 0 0 0 92 0" fill="none" stroke="url(#saturnRing)" stroke-width="9" transform="rotate(-18)" />
+  </g>
+
+  
+  <g transform="translate(278, 86) rotate(-32)">
+    
+    <path d="M -6 22 Q 0 40 6 22 Z" fill="#f97316">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="0.7s" repeatCount="indefinite" />
+    </path>
+    
+    <path d="M -9 10 L -16 20 L -7 18 Z" fill="#ef4444" />
+    <path d="M 9 10 L 16 20 L 7 18 Z" fill="#ef4444" />
+    
+    <path d="M 0 -22 C 10 -8 10 10 8 20 L -8 20 C -10 10 -10 -8 0 -22 Z" fill="#f8fafc" />
+    
+    <path d="M 0 -22 C 5 -15 7 -10 8 -6 L -8 -6 C -7 -10 -5 -15 0 -22 Z" fill="#ef4444" />
+    
+    <circle cx="0" cy="2" r="4" fill="#0284c7" stroke="#cbd5e1" stroke-width="1.5" />
+  </g>
+
+  
+  <g transform="translate(915, 200)">
+    
+    <polygon points="-14,6 14,6 28,44 -28,44" fill="url(#ufoBeam)" />
+    
+    <path d="M -14 -2 A 14 12 0 0 1 14 -2 Z" fill="#7dd3fc" opacity="0.85" />
+    
+    <ellipse cx="0" cy="2" rx="28" ry="8" fill="#94a3b8" />
+    <ellipse cx="0" cy="3" rx="24" ry="4" fill="#475569" />
+    
+    <circle cx="-15" cy="2" r="2" fill="#facc15" />
+    <circle cx="0" cy="3" r="2" fill="#38bdf8" />
+    <circle cx="15" cy="2" r="2" fill="#facc15" />
+  </g>
+
+  
+  <text x="600" y="128" text-anchor="middle" fill="#ffffff" font-family="&#39;Segoe UI&#39;, Ubuntu, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="2">
+    Prateek Jha
+  </text>
+  <text x="600" y="172" text-anchor="middle" fill="#38bdf8" font-family="&#39;Fira Code&#39;, Consolas, Monaco, monospace" font-size="19" font-weight="600" letter-spacing="1">
+    Java Backend Developer  •  Spring Boot  •  Microservices  •  Cloud
+  </text>
+  <line x1="370" y1="194" x2="830" y2="194" stroke="#6d28d9" stroke-width="2" stroke-opacity="0.75" />
+</svg>
